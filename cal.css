@@ -1,0 +1,68 @@
+.sagar{
+    width:auto;
+    height:auto;
+    background-color:#131415;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sagar0{
+    background-color: #3b4655;
+    padding: 20px;
+    border-radius: 10px;
+}
+.sagar0 form input{
+    border: 0;
+    outline: 0;
+    width: 40px;
+    height: 25px;
+    border-radius:10px;
+    box-shadow: -8px -8px 15px rgba(255,255,255, 0.1),5px 5px 15px rgba(0,0,0,0.2);
+    background: transparent;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px; 
+}
+form .sagar1{
+    display: flex;
+    justify-content:flex-end ;
+    margin: 20px 0px;
+}
+form  .sagar1 input{
+    text-align: right;
+    flex: 1;
+    font-size: 20px;
+    box-shadow: none;
+}
+
+form input .sagar4{
+    color: aqua;
+}
+form .sagar3 input{
+    color: aqua;
+}
+form .sagar12 #plus {
+    color: aqua;
+}
+form .sagar13 #sub {
+    color: aqua;
+}
+form .sagar14 #mul {
+    color: aqua;
+}
+form .sagar11 #equal {
+    color: aqua;
+    width: 145;
+}
+
+
+
+
+
+
+
+
+
+
