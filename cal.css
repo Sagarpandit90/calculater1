@@ -1,6 +1,6 @@
 .sagar{
-    width:auto;
-    height:auto;
+    width:100vw;
+    height:100vh;
     background-color:#131415;
     display: flex;
     align-items: center;
